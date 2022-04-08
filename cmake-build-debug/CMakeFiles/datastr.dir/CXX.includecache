@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mohamedaminebellil/Desktop/Programming/datastr/myarray.cpp
+myarray.h
+/Users/mohamedaminebellil/Desktop/Programming/datastr/myarray.h
+
+/Users/mohamedaminebellil/Desktop/Programming/datastr/myarray.h
+iostream
+-
+
